@@ -1,0 +1,8 @@
+---
+money:
+  :proj_path: "/Users/aec/proj/money"
+  :branch: master
+  :tarball_path: "/Users/aec/proj/tar"
+proj2:
+  :proj_path: "/Users/aec/proj/proj2"
+  :tarball_path: "/Users/aec/proj/tar"

@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+$LOAD_PATH << File.join(File.dirname(__FILE__), '..', 'lib')
+require 'tarballer'
+Tarballer.show
+t = Tarballer.new
+#t.create('money')
